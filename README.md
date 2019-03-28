@@ -1,16 +1,5 @@
-# Python Boilerplate
+# Django
 About 
 -------
-This project folder is a boilerplate for python projects. 
+This project folder is the start of a Django project. 
 It is free to use (MIT Licence)
-
-The main python file is just the main function
-
-    def main():
-
-        return 0
-
-    if __name__ = "__main__":
-        main()
-
-Nothing more, nothing less
