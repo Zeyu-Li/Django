@@ -1,5 +1,8 @@
+
 # Python Boilerplate
-About 
+
+## About
+
 -------
 This project folder is a boilerplate for python projects. 
 It is free to use (MIT Licence)
